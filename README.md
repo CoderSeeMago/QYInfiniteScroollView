@@ -15,3 +15,4 @@
     
     
     [self.view addSubview:infiniteScrollView];
+这是一个图片无限轮播器
