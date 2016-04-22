@@ -39,6 +39,7 @@
 
 - (void)infiniteScroollViewDlegate:(QYInfiniteScroollView *)QYInfiniteScroollView andDidClickImageAtIndex:(NSInteger)index
 {
+    NSLog(@"test");
     NSLog(@"%zd", index);
 }
 /*
