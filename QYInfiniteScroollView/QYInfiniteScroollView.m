@@ -39,6 +39,8 @@
 {
     [super layoutSubviews];
     
+    
+    NSLog(@"hao");
     self.imageView.frame = self.bounds;
     
 }
